@@ -13,6 +13,7 @@
 		2D092AC026BC02AF003C8544 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D092ABF26BC02AF003C8544 /* Assets.xcassets */; };
 		2D092AC326BC02AF003C8544 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D092AC226BC02AF003C8544 /* Preview Assets.xcassets */; };
 		2D092AC626BC02AF003C8544 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D092AC426BC02AF003C8544 /* LaunchScreen.storyboard */; };
+		2D092ACF26BC09B9003C8544 /* NotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D092ACE26BC09B9003C8544 /* NotificationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2D092AC226BC02AF003C8544 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2D092AC526BC02AF003C8544 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2D092AC726BC02AF003C8544 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2D092ACE26BC09B9003C8544 /* NotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				2D092AC426BC02AF003C8544 /* LaunchScreen.storyboard */,
 				2D092AC726BC02AF003C8544 /* Info.plist */,
 				2D092AC126BC02AF003C8544 /* Preview Content */,
+				2D092ACE26BC09B9003C8544 /* NotificationView.swift */,
 			);
 			path = "SwiftUI-BasicAnimations";
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 				2D092ABA26BC02AE003C8544 /* AppDelegate.swift in Sources */,
 				2D092ABC26BC02AE003C8544 /* SceneDelegate.swift in Sources */,
 				2D092ABE26BC02AE003C8544 /* ContentView.swift in Sources */,
+				2D092ACF26BC09B9003C8544 /* NotificationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
